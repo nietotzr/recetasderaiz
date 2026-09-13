@@ -1,1 +1,7 @@
-{"version":"14.1","date":"2026-09-12","recipes":53,"pages":70,"update":"Compartir: panel local, copia con alternativa manual y enlaces publicos."}
+{
+  "version": "15.0",
+  "date": "2026-09-13",
+  "recipes": 53,
+  "pages": 70,
+  "update": "53 lecturas originales al final de las recetas, contexto documentado, enlaces entre platos y navegacion de lectura."
+}
