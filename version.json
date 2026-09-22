@@ -1,7 +1,7 @@
 {
-  "version": "16.0-seo",
+  "version": "16.1-wellington",
   "date": "2026-09-22",
-  "recipes": 53,
-  "pages": 70,
-  "update": "SEO técnico: metadatos de 53 recetas, favicon PNG/ICO, imagen principal y sitemap de imágenes. Sin cambios de diseño ni funcionalidades."
+  "recipes": 54,
+  "pages": 71,
+  "update": "Añadida la receta Solomillo Wellington de ternera al modelo SEO y visual actual, con imágenes responsive, Recipe JSON-LD, buscador, categoría y sitemap."
 }

@@ -1,5 +1,6 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'solomillo-wellington-ternera':'assets/img/solomillo-wellington-ternera.webp',
  'macarrones-cherrys-calabacin-albahaca-crema-huevo':'assets/img/macarrones-cherrys-calabacin-albahaca-crema-huevo.webp',
  'salmon-lacado-esparragos-crema-acida-limon':'assets/img/salmon-lacado-esparragos-crema-acida-limon.webp',
  'ajo-blanco-malagueno':'assets/img/ajo-blanco-malagueno.webp',
