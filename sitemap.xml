@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://recetasderaiz.es/accesibilidad.html</loc>
     <lastmod>2026-09-12</lastmod>
@@ -10,15 +10,15 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/arroces-y-fideos.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/desayunos-y-postres.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/guisos-y-carnes.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/index.html</loc>
@@ -26,27 +26,27 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/pasta.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/pescados-y-mariscos.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/salsas.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/sopas-y-cremas.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/tapas-y-entrantes.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/verduras-y-ensaladas.html</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/cookies.html</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/</loc>
-    <lastmod>2026-09-12</lastmod>
+    <lastmod>2026-09-22</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/privacidad.html</loc>
@@ -62,215 +62,773 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/ajo-blanco-malagueno.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/ajo-blanco-malagueno.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ajo-blanco-malagueno-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ajo-blanco-malagueno-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ajo-blanco-malagueno-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/albondigas-en-salsa.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/albondigas-en-salsa.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/albondigas-en-salsa-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/albondigas-en-salsa-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/allioli-tradicional.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/allioli-tradicional.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/allioli-tradicional-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/allioli-tradicional-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/allioli-tradicional-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/arroz-a-banda.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/arroz-a-banda.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-a-banda-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-a-banda-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-a-banda-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/arroz-con-leche-asturiano.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/arroz-con-leche-asturiano.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-con-leche-asturiano-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-con-leche-asturiano-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-con-leche-asturiano-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/arroz-negro.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/arroz-negro.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-negro-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-negro-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-negro-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/bacalao-a-la-vizcaina.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/bacalao-a-la-vizcaina.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/bacalao-a-la-vizcaina-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/bacalao-a-la-vizcaina-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/bacalao-al-pil-pil.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/bacalao-al-pil-pil.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/bacalao-al-pil-pil-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/bacalao-al-pil-pil-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/bucatini-amatriciana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/bucatini-amatriciana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/bucatini-amatriciana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/bucatini-amatriciana-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/cacio-e-pepe.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/cacio-e-pepe.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/cacio-e-pepe-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/cacio-e-pepe-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/cacio-e-pepe-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/caldo-gallego.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/caldo-gallego.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/caldo-gallego-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/caldo-gallego-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/cocido-madrileno.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/cocido-madrileno.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/cocido-madrileno-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/cocido-madrileno-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/conejo-al-ajillo.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/conejo-al-ajillo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/conejo-al-ajillo-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/conejo-al-ajillo-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/crema-catalana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/crema-catalana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/crema-catalana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/crema-catalana-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/crema-catalana-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/croquetas-de-jamon.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/croquetas-de-jamon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/croquetas-de-jamon-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/croquetas-de-jamon-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/empanada-gallega-atun.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/empanada-gallega-atun.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/empanada-gallega-atun-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/empanada-gallega-atun-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/empanada-gallega-atun-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/ensalada-griega-horiatiki.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/ensalada-griega-horiatiki.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ensalada-griega-horiatiki-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ensalada-griega-horiatiki-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ensalada-griega-horiatiki-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/escalivada-catalana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/escalivada-catalana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/escalivada-catalana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/escalivada-catalana-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/escudella-carn-dolla.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/escudella-carn-dolla.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/escudella-carn-dolla-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/escudella-carn-dolla-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/fabada-asturiana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/fabada-asturiana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/fabada-asturiana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/fabada-asturiana-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/fabada-asturiana-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/fideua-de-gandia.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/fideua-de-gandia.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/fideua-de-gandia-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/fideua-de-gandia-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/gazpacho-andaluz.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/gazpacho-andaluz.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/gazpacho-andaluz-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/gazpacho-andaluz-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/insalata-caprese.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/insalata-caprese.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/insalata-caprese-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/insalata-caprese-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/insalata-caprese-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/lentejas-estofadas.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/lentejas-estofadas.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/lentejas-estofadas-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/lentejas-estofadas-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/lentejas-estofadas-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/macarrones-cherrys-calabacin-albahaca-crema-huevo.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/macarrones-cherrys-calabacin-albahaca-crema-huevo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/macarrones-cherrys-calabacin-albahaca-crema-huevo-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/macarrones-cherrys-calabacin-albahaca-crema-huevo-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/macarrones-cherrys-calabacin-albahaca-crema-huevo-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/marmitako.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/marmitako.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/marmitako-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/marmitako-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/mel-i-mato.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/mel-i-mato.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/mel-i-mato-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/mel-i-mato-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/merluza-a-la-vasca.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/merluza-a-la-vasca.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/merluza-a-la-vasca-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/merluza-a-la-vasca-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/migas-extremenas.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/migas-extremenas.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/migas-extremenas-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/migas-extremenas-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/moussaka-griega.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/moussaka-griega.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/moussaka-griega-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/moussaka-griega-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/moussaka-griega-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pa-amb-tomaquet.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pa-amb-tomaquet.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pa-amb-tomaquet-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pa-amb-tomaquet-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pa-amb-tomaquet-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/paella-valenciana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/paella-valenciana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/paella-valenciana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/paella-valenciana-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/paella-valenciana-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pan-ajo-aceite.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pan-ajo-aceite.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pan-ajo-aceite-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pan-ajo-aceite-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pan-ajo-aceite-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/papas-arrugadas-mojo-picon.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/papas-arrugadas-mojo-picon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/papas-arrugadas-mojo-picon-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/papas-arrugadas-mojo-picon-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/patatas-bravas.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/patatas-bravas.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/patatas-bravas-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/patatas-bravas-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/patatas-bravas-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pesto-alla-genovese.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pesto-alla-genovese.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pesto-alla-genovese-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pesto-alla-genovese-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pesto-alla-genovese-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pimientos-de-padron.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pimientos-de-padron.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pimientos-de-padron-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pimientos-de-padron-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pimientos-de-padron-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pisto-manchego.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pisto-manchego.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pisto-manchego-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pisto-manchego-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pollo-al-ajillo.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pollo-al-ajillo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pollo-al-ajillo-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pollo-al-ajillo-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/porrusalda.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/porrusalda.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/porrusalda-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/porrusalda-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/porrusalda-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/pulpo-a-feira.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/pulpo-a-feira.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pulpo-a-feira-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/pulpo-a-feira-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/rabo-de-toro.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/rabo-de-toro.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/rabo-de-toro-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/rabo-de-toro-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/ratatouille-nicoise.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/ratatouille-nicoise.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ratatouille-nicoise-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/ratatouille-nicoise-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/salmon-lacado-esparragos-crema-acida-limon.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/salmon-lacado-esparragos-crema-acida-limon.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/salmon-lacado-esparragos-crema-acida-limon-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/salmon-lacado-esparragos-crema-acida-limon-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/salmon-lacado-esparragos-crema-acida-limon-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/salmorejo-cordobes.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/salmorejo-cordobes.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/salmorejo-cordobes-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/salmorejo-cordobes-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/salmorejo-cordobes-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/samfaina-catalana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/samfaina-catalana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/samfaina-catalana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/samfaina-catalana-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/sopa-de-ajo-castellana.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/sopa-de-ajo-castellana.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/sopa-de-ajo-castellana-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/sopa-de-ajo-castellana-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/spaghetti-alla-carbonara.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/spaghetti-alla-carbonara.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/spaghetti-alla-carbonara-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/spaghetti-alla-carbonara-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/spaghetti-alla-carbonara-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/suquet-de-peix.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/suquet-de-peix.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/suquet-de-peix-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/suquet-de-peix-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/suquet-de-peix-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/tarta-de-santiago.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/tarta-de-santiago.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tarta-de-santiago-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tarta-de-santiago-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tarta-de-santiago-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/tortilla-de-patatas.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/tortilla-de-patatas.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tortilla-de-patatas-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tortilla-de-patatas-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/tortitas-americanas-esponjosas.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/tortitas-americanas-esponjosas.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tortitas-americanas-esponjosas-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tortitas-americanas-esponjosas-landscape.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/tzatziki.html</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-22</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/tzatziki.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tzatziki-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tzatziki-landscape.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/tzatziki-4x3.webp</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>https://recetasderaiz.es/sobre-la-web.html</loc>

@@ -1,7 +1,7 @@
 {
-  "version": "15.0",
-  "date": "2026-09-13",
+  "version": "16.0-seo",
+  "date": "2026-09-22",
   "recipes": 53,
   "pages": 70,
-  "update": "53 lecturas originales al final de las recetas, contexto documentado, enlaces entre platos y navegacion de lectura."
+  "update": "SEO técnico: metadatos de 53 recetas, favicon PNG/ICO, imagen principal y sitemap de imágenes. Sin cambios de diseño ni funcionalidades."
 }
