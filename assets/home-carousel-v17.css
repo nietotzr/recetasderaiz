@@ -1,0 +1,23 @@
+/* Manual carousel: a native scrollable HTML strip when JS is unavailable. */
+.home-feature{min-width:0;width:100%;max-width:520px;align-self:center}
+.feature-slides{display:grid;grid-auto-flow:column;grid-auto-columns:100%;overflow-x:auto;scroll-snap-type:x mandatory;scrollbar-width:thin;scrollbar-color:var(--brand) var(--sage);border-radius:8px}
+.feature-slide{min-width:0;scroll-snap-align:start}
+.feature-image{display:block;width:100%;aspect-ratio:16/9;border-radius:8px;background:var(--warm);overflow:hidden}
+.feature-image img{width:100%;height:100%;object-fit:cover;object-position:center 48%}
+.feature-caption{height:126px;padding:13px 2px 8px}
+.feature-caption .eyebrow{font-size:9px;margin-bottom:7px}
+.feature-caption h2{font-family:var(--serif);font-size:22px;line-height:1.2;font-weight:500;letter-spacing:-.025em;margin:0;overflow-wrap:break-word}
+.feature-caption h2 a{display:block}
+.feature-caption h2 a:hover{color:var(--brand);text-decoration:underline;text-underline-offset:4px;text-decoration-thickness:1px}
+.feature-toolbar{height:56px;display:flex;align-items:center}
+.feature-toolbar noscript p{font-size:12px;line-height:1.5;color:var(--muted)}
+.feature-controls{width:100%;display:flex;align-items:center;gap:8px}
+.feature-controls button{flex:none;display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px;border:1px solid var(--line);background:var(--paper);color:var(--brand-dark);border-radius:5px;font-size:22px;line-height:1}
+.feature-controls button:hover{background:var(--sage);border-color:var(--brand)}
+.feature-controls .feature-shuffle{width:auto;padding:8px 10px;margin-left:auto;font-size:12px;line-height:1.25;font-weight:650}
+.feature-count{font-size:12px;font-variant-numeric:tabular-nums;color:var(--muted);min-width:37px;text-align:center}
+.feature-slides.is-enhanced{display:block;overflow:visible;scrollbar-width:none}
+.home-feature:focus-visible{border-radius:6px}
+@media(min-width:600px){.feature-image{aspect-ratio:4/5}.feature-caption{height:158px}.feature-caption h2{font-size:21px}.feature-controls{gap:5px}.feature-controls .feature-shuffle{max-width:104px;font-size:11px;padding-inline:6px}}
+@media(min-width:860px){.feature-image{aspect-ratio:4/3}.feature-caption{height:110px}.feature-caption h2{font-size:23px}.feature-controls{gap:9px}.feature-controls .feature-shuffle{font-size:12px;max-width:none;padding-inline:12px}}
+@media print{.home-feature{display:none!important}}

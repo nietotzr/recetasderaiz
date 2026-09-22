@@ -1,7 +1,9 @@
 {
-  "version": "16.1-wellington",
+  "version": "17.0-ideas-carrusel",
   "date": "2026-09-22",
   "recipes": 54,
-  "pages": 71,
-  "update": "Añadida la receta Solomillo Wellington de ternera al modelo SEO y visual actual, con imágenes responsive, Recipe JSON-LD, buscador, categoría y sitemap."
+  "guides": 10,
+  "pages": 82,
+  "base": "16.1-wellington",
+  "update": "Diez guías, sección Ideas para cocinar, carrusel manual con selección aleatoria y enlaces contextuales."
 }
