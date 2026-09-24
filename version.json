@@ -1,9 +1,9 @@
 {
-  "version": "17.0-ideas-carrusel",
-  "date": "2026-09-22",
-  "recipes": 54,
+  "version": "18.0-arroz-seco-marisco",
+  "date": "2026-09-24",
+  "recipes": 55,
   "guides": 10,
   "pages": 82,
-  "base": "16.1-wellington",
-  "update": "Diez guías, sección Ideas para cocinar, carrusel manual con selección aleatoria y enlaces contextuales."
+  "base": "17.0-ideas-carrusel",
+  "update": "Nueva receta: arroz seco de calamar, pulpitos y gambas."
 }
