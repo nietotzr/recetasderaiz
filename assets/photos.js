@@ -1,5 +1,6 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'huevos-rellenos-mejillones':'assets/img/huevos-rellenos-mejillones.jpeg',
  'arroz-seco-calamar-pulpitos-gambas':'assets/img/arroz-seco-calamar-pulpitos-gambas.webp',
  'solomillo-wellington-ternera':'assets/img/solomillo-wellington-ternera.webp',
  'macarrones-cherrys-calabacin-albahaca-crema-huevo':'assets/img/macarrones-cherrys-calabacin-albahaca-crema-huevo.webp',

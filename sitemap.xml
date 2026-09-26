@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/index.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/pasta.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/tapas-y-entrantes.html</loc>
-    <lastmod>2026-09-22</lastmod>
+    <lastmod>2026-09-25</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/verduras-y-ensaladas.html</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-09-25</lastmod>
     <image:image>
       <image:loc>https://recetasderaiz.es/assets/img/salmon-lacado-esparragos-crema-acida-limon.webp</image:loc>
     </image:image>
@@ -1697,6 +1697,13 @@
     </image:image>
     <image:image>
       <image:loc>https://recetasderaiz.es/assets/media/arroz-seco-calamar-pulpitos-gambas-4x3.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://recetasderaiz.es/recetas/huevos-rellenos-mejillones.html</loc>
+    <lastmod>2026-09-25</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/huevos-rellenos-mejillones.jpeg</image:loc>
     </image:image>
   </url>
 </urlset>

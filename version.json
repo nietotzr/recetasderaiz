@@ -1,9 +1,9 @@
 {
-  "version": "18.0-arroz-seco-marisco",
-  "date": "2026-09-24",
-  "recipes": 55,
+  "version": "19.0-huevos-rellenos-mejillones",
+  "date": "2026-09-25",
+  "recipes": 56,
   "guides": 10,
-  "pages": 82,
-  "base": "17.0-ideas-carrusel",
-  "update": "Nueva receta: arroz seco de calamar, pulpitos y gambas."
+  "pages": 83,
+  "base": "18.0-arroz-seco-marisco",
+  "update": "Nueva receta: huevos rellenos de mejillones."
 }
