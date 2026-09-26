@@ -1,5 +1,7 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'palomitas-caseras-sarten':'assets/img/palomitas-caseras-sarten.webp',
+ 'escudella-catalana-casera':'assets/img/escudella-catalana-casera.webp',
  'huevos-rellenos-mejillones':'assets/img/huevos-rellenos-mejillones.jpeg',
  'arroz-seco-calamar-pulpitos-gambas':'assets/img/arroz-seco-calamar-pulpitos-gambas.webp',
  'solomillo-wellington-ternera':'assets/img/solomillo-wellington-ternera.webp',

@@ -1706,4 +1706,18 @@
       <image:loc>https://recetasderaiz.es/assets/img/huevos-rellenos-mejillones.jpeg</image:loc>
     </image:image>
   </url>
+  <url>
+    <loc>https://recetasderaiz.es/recetas/escudella-catalana-casera.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/escudella-catalana-casera.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://recetasderaiz.es/recetas/palomitas-caseras-sarten.html</loc>
+    <lastmod>2026-09-26</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/palomitas-caseras-sarten.webp</image:loc>
+    </image:image>
+  </url>
 </urlset>

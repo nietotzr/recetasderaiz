@@ -1,9 +1,9 @@
 {
-  "version": "19.0-huevos-rellenos-mejillones",
-  "date": "2026-09-25",
-  "recipes": 56,
+  "version": "21.0-palomitas-caseras-sarten",
+  "date": "2026-09-26",
+  "recipes": 58,
   "guides": 10,
-  "pages": 83,
-  "base": "18.0-arroz-seco-marisco",
-  "update": "Nueva receta: huevos rellenos de mejillones."
+  "pages": 85,
+  "base": "20.0-escudella-catalana-casera",
+  "update": "Nueva receta: Palomitas caseras en sartén."
 }
