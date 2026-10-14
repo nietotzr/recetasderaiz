@@ -1,9 +1,9 @@
 {
-  "version": "21.0-palomitas-caseras-sarten",
-  "date": "2026-09-26",
-  "recipes": 58,
+  "version": "22.0-arroz-basmati-y-foto-palomitas",
+  "date": "2026-10-14",
+  "recipes": 59,
   "guides": 10,
-  "pages": 85,
-  "base": "20.0-escudella-catalana-casera",
-  "update": "Nueva receta: Palomitas caseras en sartén."
+  "pages": 86,
+  "base": "21.0-palomitas-caseras-sarten",
+  "update": "Arroz basmati con pollo y foto del plato de palomitas corregida."
 }

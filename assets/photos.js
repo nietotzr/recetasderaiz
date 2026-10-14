@@ -1,5 +1,6 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'arroz-basmati-salteado-pollo':'assets/img/arroz-basmati-salteado-pollo.webp',
  'palomitas-caseras-sarten':'assets/img/palomitas-caseras-sarten.webp',
  'escudella-catalana-casera':'assets/img/escudella-catalana-casera.webp',
  'huevos-rellenos-mejillones':'assets/img/huevos-rellenos-mejillones.jpeg',

@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/arroces-y-fideos.html</loc>
-    <lastmod>2026-09-24</lastmod>
+    <lastmod>2026-10-14</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/desayunos-y-postres.html</loc>
@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/index.html</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-10-14</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/pasta.html</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <image:image>
       <image:loc>https://recetasderaiz.es/assets/img/salmon-lacado-esparragos-crema-acida-limon.webp</image:loc>
     </image:image>
@@ -1715,9 +1715,28 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/recetas/palomitas-caseras-sarten.html</loc>
-    <lastmod>2026-09-26</lastmod>
+    <lastmod>2026-10-14</lastmod>
     <image:image>
       <image:loc>https://recetasderaiz.es/assets/img/palomitas-caseras-sarten.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/palomitas-caseras-sarten-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/palomitas-caseras-sarten-landscape.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://recetasderaiz.es/recetas/arroz-basmati-salteado-pollo.html</loc>
+    <lastmod>2026-10-14</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/arroz-basmati-salteado-pollo.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-basmati-salteado-pollo-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/arroz-basmati-salteado-pollo-landscape.webp</image:loc>
     </image:image>
   </url>
 </urlset>
