@@ -1,5 +1,7 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'tortitas-americanas-esponjosas':'assets/img/tortitas-americanas-esponjosas.webp',
+ 'castanas-asadas-airfryer':'assets/img/castanas-asadas-airfryer.webp',
  'arroz-basmati-salteado-pollo':'assets/img/arroz-basmati-salteado-pollo.webp',
  'palomitas-caseras-sarten':'assets/img/palomitas-caseras-sarten.webp',
  'escudella-catalana-casera':'assets/img/escudella-catalana-casera.webp',

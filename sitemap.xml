@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/index.html</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/pasta.html</loc>
@@ -42,7 +42,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/tapas-y-entrantes.html</loc>
-    <lastmod>2026-09-25</lastmod>
+    <lastmod>2026-10-20</lastmod>
   </url>
   <url>
     <loc>https://recetasderaiz.es/categorias/verduras-y-ensaladas.html</loc>
@@ -54,7 +54,7 @@
   </url>
   <url>
     <loc>https://recetasderaiz.es/</loc>
-    <lastmod>2026-10-14</lastmod>
+    <lastmod>2026-10-20</lastmod>
     <image:image>
       <image:loc>https://recetasderaiz.es/assets/img/salmon-lacado-esparragos-crema-acida-limon.webp</image:loc>
     </image:image>
@@ -1737,6 +1737,19 @@
     </image:image>
     <image:image>
       <image:loc>https://recetasderaiz.es/assets/media/arroz-basmati-salteado-pollo-landscape.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://recetasderaiz.es/recetas/castanas-asadas-airfryer.html</loc>
+    <lastmod>2026-10-20</lastmod>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/img/castanas-asadas-airfryer.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/castanas-asadas-airfryer-square.webp</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://recetasderaiz.es/assets/media/castanas-asadas-airfryer-landscape.webp</image:loc>
     </image:image>
   </url>
 </urlset>

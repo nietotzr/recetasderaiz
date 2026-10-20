@@ -1,9 +1,9 @@
 {
-  "version": "22.0-arroz-basmati-y-foto-palomitas",
-  "date": "2026-10-14",
-  "recipes": 59,
+  "version": "23.0-castanas-airfryer",
+  "date": "2026-10-20",
+  "recipes": 60,
   "guides": 10,
-  "pages": 86,
-  "base": "21.0-palomitas-caseras-sarten",
-  "update": "Arroz basmati con pollo y foto del plato de palomitas corregida."
+  "pages": 87,
+  "base": "22.0-arroz-basmati-y-foto-palomitas",
+  "update": "Nueva receta: castañas asadas en airfryer. Conserva el basmati, la foto corregida de palomitas, las guías y el carrusel."
 }
