@@ -1,0 +1,13 @@
+SISTEMA DE COMENTARIOS Y VALORACIONES - RECETAS DE RAÍZ
+
+Integrado en 60 páginas de recetas. No se han modificado las recetas ni su JSON-LD.
+
+PARA ACTIVARLO:
+1. Crear un proyecto Supabase y ejecutar CONFIGURACION_COMENTARIOS.sql en SQL Editor.
+2. Abrir assets/reviews-config.js y completar url y anonKey (clave pública/publishable; NUNCA service_role o secret).
+3. Configurar protección anti-spam (CAPTCHA y limitación de solicitudes mediante backend/Edge Function) antes de abrirlo al público. La política de inserción directa incluida es una base de pruebas y no ofrece limitación anti-spam robusta.
+4. Subir los archivos al alojamiento. Los visitantes pueden enviar opiniones, pero solo aparecen cuando se aprueban desde Supabase Table Editor (approved=true).
+5. Revisar privacidad y política de retención de datos antes de activar.
+
+SIN CONFIGURACIÓN: se muestra aviso de que las opiniones estarán disponibles próximamente y el formulario permanece oculto.
+SEO: no se añaden valoraciones ficticias ni AggregateRating sin datos reales. Para SEO dinámico indexable haría falta generar el marcado con datos aprobados en servidor o en compilación.
