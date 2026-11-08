@@ -1,5 +1,6 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'risotto-ceps-guanciale':'assets/img/risotto-ceps-guanciale.webp',
  'tortitas-americanas-esponjosas':'assets/img/tortitas-americanas-esponjosas.webp',
  'castanas-asadas-airfryer':'assets/img/castanas-asadas-airfryer.webp',
  'arroz-basmati-salteado-pollo':'assets/img/arroz-basmati-salteado-pollo.webp',

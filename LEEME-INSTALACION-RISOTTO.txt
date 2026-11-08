@@ -1,0 +1,14 @@
+RECETA RISOTTO DE CEPS CON GUANCIALE — INSTALACION
+
+Este ZIP contiene SOLO los archivos nuevos y los registros que hay que actualizar, con las rutas exactas de la web actual.
+
+1. Haz copia de seguridad del directorio de tu web.
+2. Descomprime el ZIP en la RAIZ de recetasderaiz (donde esta index.html), conservando las carpetas.
+3. Permite reemplazar: index.html, sitemap.xml, categorias/arroces-y-fideos.html, assets/recipes.js y assets/photos.js.
+4. Los demas archivos son nuevos: recetas/risotto-ceps-guanciale.html, assets/img y assets/media.
+5. Comprueba en local la portada, la categoria Arroces y fideos y la pagina de la receta.
+6. Publica los archivos mediante tu procedimiento habitual de GitHub Pages.
+
+Foto: editada desde IMG_0061.jpeg mediante brillo/contraste/color/nitidez ligeros, sin generacion IA.
+La receta y las cantidades han sido confirmadas por el usuario.
+No se ha modificado ninguna otra receta.
