@@ -1,5 +1,8 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'alcachofas-al-horno':'assets/img/alcachofas-al-horno.webp',
+ 'pastel-de-carne-gratinado':'assets/img/pastel-de-carne-gratinado.webp',
+ 'vichyssoise-ligera-sin-patata':'assets/img/vichyssoise-ligera-sin-patata.webp',
  'risotto-ceps-guanciale':'assets/img/risotto-ceps-guanciale.webp',
  'tortitas-americanas-esponjosas':'assets/img/tortitas-americanas-esponjosas.webp',
  'castanas-asadas-airfryer':'assets/img/castanas-asadas-airfryer.webp',

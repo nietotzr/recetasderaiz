@@ -1,0 +1,23 @@
+RECETAS DE RAÍZ — 3 RECETAS (9 NOVIEMBRE 2026)
+
+Contenido adaptado a la estructura de recetasderaiz.zip y al paquete anterior del risotto.
+Incluye solamente archivos nuevos o modificados.
+
+INSTALACIÓN
+1. Haz una copia de seguridad de la web actual.
+2. Abre el ZIP y copia SU CONTENIDO en la carpeta raíz del sitio, junto a index.html.
+3. Mantén las carpetas assets/, recetas/ y categorias/ y acepta reemplazar los archivos que coincidan.
+4. Comprueba en local las tres recetas, la portada y las categorías Verduras y ensaladas, Guisos y carnes y Sopas y cremas.
+5. Sube/commit en GitHub y confirma que las nuevas URL funcionan tras publicar.
+
+INCLUYE
+- HTML completo de las tres recetas: ingredientes marcables, pasos, consejos, lectura editorial, enlaces relacionados, botones imprimir/compartir y opiniones.
+- 6 versiones WebP por foto, a partir de los JPEG ya retocados proporcionados. NO se ha generado ninguna imagen con IA.
+- index.html, 3 páginas de categoría, assets/recipes.js, assets/photos.js y sitemap.xml actualizados.
+- Meta title, description, canonical, Open Graph, Twitter, datos estructurados Recipe, WebPage y BreadcrumbList.
+
+NOTA DE FIDELIDAD
+Se conservan los ingredientes y la elaboración de los textos originales. Los tiempos del asado de alcachofas y del gratinado del pastel son orientativos; no constan como mediciones reales del autor. La refrigeración (3–4 horas) de la vichyssoise no está incluida en los 40 minutos de preparación+cocción.
+
+IMPORTANTE
+El proyecto de referencia es la copia del sitio proporcionada en este hilo más las modificaciones anteriores del risotto. Si has realizado otros cambios después de enviar esos archivos, revisa antes de reemplazar index.html, las páginas de categoría, los JS o sitemap.xml para no perderlos.
