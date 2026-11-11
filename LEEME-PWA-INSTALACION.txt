@@ -1,0 +1,56 @@
+RECETAS DE RAÍZ — PWA INTEGRADA (11-11-2026)
+==================================================
+
+QUÉ ES
+- La app instalable y la web SON EL MISMO SITIO (https://recetasderaiz.es/).
+- NO hay recetas duplicadas ni una segunda base de datos.
+- Cuando publicas una nueva receta en la web y la incluyes en el listado de la portada
+  como siempre, también aparece en la app al abrirla o actualizarla con conexión.
+- Service worker 'network-first': primero consulta la web publicada y solo usa la
+  copia guardada si el dispositivo se queda sin Internet.
+- Modo sin conexión: las páginas e imágenes visitadas pueden seguir disponibles;
+  no se descargan todas las recetas por adelantado.
+
+PUBLICAR EN EL DOMINIO EXISTENTE (GITHUB PAGES)
+1. Haz copia de seguridad del repositorio o carpeta que ya tienes publicada.
+2. Descomprime el ZIP 'recetas-de-raiz-pwa-completa.zip'.
+3. Abre la carpeta 'recetasderaiz'. Copia SU CONTENIDO a la raíz del repositorio
+   del sitio. Conserva CNAME, .nojekyll, assets, recetas, categorias, ideas, etc.
+   NO subas el ZIP sin descomprimir.
+4. Haz commit y push (o publica con el método que uses habitualmente).
+5. Verifica con Internet que funcionan estas direcciones:
+   - https://recetasderaiz.es/
+   - https://recetasderaiz.es/manifest.webmanifest
+   - https://recetasderaiz.es/sw.js
+   - https://recetasderaiz.es/instalar-app.html
+6. Abre en el móvil: https://recetasderaiz.es/instalar-app.html
+   iPhone: Safari > Compartir > Añadir a pantalla de inicio.
+   Android: Chrome > Menú ⋮ > Instalar aplicación / Añadir a pantalla de inicio.
+
+IMPORTANTE SI UTILIZAS EL ZIP DE SOLO CAMBIOS
+Descomprime 'recetas-de-raiz-pwa-solo-cambios.zip' y copia el contenido
+'REEMPLAZANDO' en el repositorio actual. Incluye 94 HTML existentes modificados
+(metadatos de instalación y enlace en pie), y los archivos nuevos de la PWA.
+No necesitas reemplazar tus fotografías ni las recetas individuales nuevas
+que se publiquen después de esta actualización.
+
+NUEVAS RECETAS A PARTIR DE AHORA
+1. Añade la receta HTML y las fotografías a la web, igual que antes.
+2. Actualiza la tarjeta en 'index.html', categorías, sitemap, metadatos SEO,
+   etc., conforme a tu procedimiento habitual.
+3. Publica los archivos del sitio en recetasderaiz.es.
+4. La PWA instalada los leerá de ese mismo dominio cuando se abra o recargue
+   con conexión; NO se requiere publicar una segunda aplicación.
+
+NOTAS TÉCNICAS
+- sw.js reside en la raíz para controlar también /recetas/, /ideas/ y /categorias/.
+- El código PWA está en assets/pwa.js y manifest.webmanifest.
+- Sincronización: red primero, caché solo como respaldo sin conexión.
+- Si la PWA permanece abierta mientras publicas contenido nuevo, actualiza la
+  pantalla para ver los cambios. No se envían notificaciones ni cambios en directo.
+- Si se cambia sw.js en el futuro, cambia CACHE_VERSION para eliminar cachés
+  antiguas de esta PWA. No hace falta cambiar CACHE_VERSION con cada receta,
+  porque el contenido se consulta primero en la red.
+- No se ha cambiado ninguna de las 66 páginas HTML de recetas en su contenido, URLs, datos
+  estructurados SEO ni los archivos originales de fotografía.
+- Este ZIP no incluye la carpeta .git del ZIP recibido (historial interno del repo).
