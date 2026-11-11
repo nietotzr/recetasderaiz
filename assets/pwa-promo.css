@@ -1,0 +1,30 @@
+/* Recetas de Raiz / instalacion PWA: solo movil, sin alterar paginas ni SEO. */
+.pwa-mobile-shortcut,.pwa-promo-invite{display:none}
+@media (max-width:699px) and (hover:none) {
+  :root{--header-height:138px}
+  .pwa-mobile-shortcut{display:block;background:#eef1e8;border-top:1px solid #dce4d6}
+  .pwa-shortcut-link{display:flex;align-items:center;justify-content:center;gap:8px;min-height:37px;padding:6px 12px;color:#24452b;font-size:12px;font-weight:700;line-height:1.35;text-align:center}
+  .pwa-shortcut-link:hover,.pwa-shortcut-link:focus-visible{background:#e1eadb}
+  .pwa-promo-invite{display:block;position:fixed;z-index:85;bottom:max(14px, env(safe-area-inset-bottom));left:12px;right:12px;max-width:420px;margin-inline:auto;padding:19px 18px 14px;background:#fffdf9;color:#1f241d;border:1px solid #d8dfd0;border-radius:16px;box-shadow:0 12px 38px rgba(25,40,24,.22);font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif}
+  .pwa-promo-head{display:flex;align-items:center;gap:13px;padding-right:21px}
+  .pwa-promo-logo{flex:none;width:52px;height:52px;object-fit:cover;border-radius:12px;box-shadow:0 2px 8px #19321c12}
+  .pwa-promo-eyebrow{font-size:10px;font-weight:800;letter-spacing:.115em;line-height:1.3;color:#315b39;margin:0 0 4px}
+  .pwa-promo-invite h2{font:600 23px/1.13 Georgia,'Times New Roman',serif;letter-spacing:-.03em;margin:0}
+  .pwa-promo-copy{font-size:13px;line-height:1.55;color:#566052;margin:13px 0 16px}
+  .pwa-promo-action{display:flex;align-items:center;justify-content:center;gap:11px;min-height:46px;padding:10px 14px;border-radius:7px;background:#315b39;color:white;font-size:14px;line-height:1.3;font-weight:750;text-decoration:none}
+  .pwa-promo-action:hover,.pwa-promo-action:focus-visible{background:#24452b;color:white}
+  .pwa-promo-later{display:block;min-height:38px;margin:5px auto 0;padding:5px 14px;background:transparent;color:#566052;font-size:12px;font-weight:600;text-decoration:underline;text-underline-offset:3px}
+  .pwa-promo-close{position:absolute;top:9px;right:9px;width:42px;height:42px;background:transparent;border-radius:9px;color:#4d5848;font-size:27px;line-height:1}
+  .pwa-promo-close:hover{background:#eef1e8}
+  .pwa-promo-invite :focus-visible,.pwa-mobile-shortcut :focus-visible{outline:3px solid #d86a35;outline-offset:2px}
+}
+@media (max-width:359px) and (hover:none) {
+  .pwa-promo-invite{padding:15px 14px 10px}
+  .pwa-promo-invite h2{font-size:21px}
+}
+@media (display-mode:standalone) {
+  .pwa-mobile-shortcut,.pwa-promo-invite{display:none!important}
+}
+@media print {
+  .pwa-mobile-shortcut,.pwa-promo-invite{display:none!important}
+}
