@@ -3,7 +3,7 @@
    Thus publishing a new recipe to the website also updates the installed PWA.
    The cache only serves as a fallback when offline. */
 const CACHE_PREFIX = 'recetas-de-raiz-pwa-';
-const CACHE_VERSION = '2';
+const CACHE_VERSION = '3';
 const PAGES_CACHE = `${CACHE_PREFIX}pages-${CACHE_VERSION}`;
 const IMAGES_CACHE = `${CACHE_PREFIX}images-${CACHE_VERSION}`;
 const IMAGE_CACHE_LIMIT = 90;
@@ -17,7 +17,7 @@ const PRECACHE = [
   'assets/site-v14-1.css', 'assets/site-v14-1.js',
   'assets/pwa.js', 'assets/pwa-promo.css',
   'assets/home-carousel-v17.css', 'assets/home-carousel-v17.js',
-  'assets/ideas-v17.css', 'assets/consent-v14.js',
+  'assets/ideas-v17.css', 'assets/consent-v15.js',
   'assets/logo-recetas-de-raiz.svg',
   'assets/pwa/icon-192.png', 'assets/pwa/icon-512.png',
   'assets/pwa/icon-maskable-512.png'
