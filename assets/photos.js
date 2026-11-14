@@ -1,5 +1,8 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'arroz-de-lagarto-iberico':'assets/img/arroz-de-lagarto-iberico.webp',
+ 'picada-catalana':'assets/img/picada-catalana.webp',
+
  'alcachofas-al-horno':'assets/img/alcachofas-al-horno.webp',
  'pastel-de-carne-gratinado':'assets/img/pastel-de-carne-gratinado.webp',
  'vichyssoise-ligera-sin-patata':'assets/img/vichyssoise-ligera-sin-patata.webp',
