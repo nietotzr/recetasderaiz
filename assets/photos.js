@@ -66,7 +66,10 @@ window.RECIPE_IMAGES={
  'suquet-de-peix':'assets/img/suquet-de-peix.webp',
  'tarta-de-santiago':'assets/img/tarta-de-santiago.webp',
  'tortilla-de-patatas':'assets/img/tortilla-de-patatas.webp',
- 'tzatziki':'assets/img/tzatziki.webp'
+ 'tzatziki':'assets/img/tzatziki.webp',
+ 'bizcocho-de-calabaza-y-almendras':'assets/img/bizcocho-calabaza-almendras.webp',
+ 'bombas-de-calabaza-y-queso':'assets/img/bombas-calabaza-queso.webp',
+ 'boniato-al-horno-con-ajo-y-romero':'assets/img/boniato-al-horno-ajo-romero.webp'
 };
 window.commonsPhoto=async function(slug){return window.RECIPE_IMAGES[slug]||null};
 document.addEventListener('DOMContentLoaded',()=>{const hero=document.querySelector('.recipe-photo[data-slug]');if(hero){const s=hero.dataset.slug,t=hero.dataset.title;const u=window.RECIPE_IMAGES[s];if(u)hero.innerHTML='<img src="../'+u+'" alt="'+t+'">';}});
