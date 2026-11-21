@@ -22,11 +22,11 @@
 </url>
 <url>
 <loc>https://recetasderaiz.es/categorias/index.html</loc>
-<lastmod>2026-11-15</lastmod>
+<lastmod>2026-11-21</lastmod>
 </url>
 <url>
 <loc>https://recetasderaiz.es/categorias/pasta.html</loc>
-<lastmod>2026-09-22</lastmod>
+<lastmod>2026-11-21</lastmod>
 </url>
 <url>
 <loc>https://recetasderaiz.es/categorias/pescados-y-mariscos.html</loc>
@@ -54,7 +54,7 @@
 </url>
 <url>
 <loc>https://recetasderaiz.es/</loc>
-<lastmod>2026-11-15</lastmod>
+<lastmod>2026-11-21</lastmod>
 <image:image>
 <image:loc>https://recetasderaiz.es/assets/img/salmon-lacado-esparragos-crema-acida-limon.webp</image:loc>
 </image:image>
@@ -1764,4 +1764,8 @@
 <url><loc>https://recetasderaiz.es/recetas/bizcocho-de-calabaza-y-almendras.html</loc><lastmod>2026-11-15</lastmod><image:image><image:loc>https://recetasderaiz.es/assets/img/bizcocho-calabaza-almendras.webp</image:loc></image:image></url>
 <url><loc>https://recetasderaiz.es/recetas/bombas-de-calabaza-y-queso.html</loc><lastmod>2026-11-15</lastmod><image:image><image:loc>https://recetasderaiz.es/assets/img/bombas-calabaza-queso.webp</image:loc></image:image></url>
 <url><loc>https://recetasderaiz.es/recetas/boniato-al-horno-con-ajo-y-romero.html</loc><lastmod>2026-11-15</lastmod><image:image><image:loc>https://recetasderaiz.es/assets/img/boniato-al-horno-ajo-romero.webp</image:loc></image:image></url>
+
+<url><loc>https://recetasderaiz.es/categorias/masas-y-pizzas.html</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://recetasderaiz.es/recetas/noquis-con-salsa-blanca-y-bacon.html</loc><lastmod>2026-11-21</lastmod><image:image><image:loc>https://recetasderaiz.es/assets/img/noquis-con-salsa-blanca-y-bacon.webp</image:loc></image:image><image:image><image:loc>https://recetasderaiz.es/assets/media/noquis-con-salsa-blanca-y-bacon-landscape.webp</image:loc></image:image></url>
+<url><loc>https://recetasderaiz.es/recetas/masa-pizza-casera-fermentacion-24-horas.html</loc><lastmod>2026-11-21</lastmod><image:image><image:loc>https://recetasderaiz.es/assets/img/masa-pizza-casera-fermentacion-24-horas.webp</image:loc></image:image><image:image><image:loc>https://recetasderaiz.es/assets/media/masa-pizza-casera-fermentacion-24-horas-landscape.webp</image:loc></image:image></url>
 </urlset>

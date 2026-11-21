@@ -1,5 +1,8 @@
 (function(){
 window.RECIPE_IMAGES={
+ 'noquis-con-salsa-blanca-y-bacon':'assets/img/noquis-con-salsa-blanca-y-bacon.webp',
+ 'masa-pizza-casera-fermentacion-24-horas':'assets/img/masa-pizza-casera-fermentacion-24-horas.webp',
+
  'arroz-de-lagarto-iberico':'assets/img/arroz-de-lagarto-iberico.webp',
  'picada-catalana':'assets/img/picada-catalana.webp',
 
