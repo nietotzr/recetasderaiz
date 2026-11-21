@@ -36,10 +36,17 @@
     }
     input.addEventListener('input', apply);
     category?.addEventListener('change', apply);
-    order?.addEventListener('change', () => {
-      const sorted = cards.slice().sort((a,b) => order.value === 'az' ? a.dataset.name.localeCompare(b.dataset.name,'es') : Number(a.dataset.order) - Number(b.dataset.order));
+    // Larger data-order values represent newer recipes; e.g., 74 follows 73.
+    // Apply on load too: new cards need not be physically prepended in HTML.
+    function sortCards() {
+      const alphabetical = order?.value === 'az';
+      const sorted = cards.slice().sort((a, b) => alphabetical
+        ? a.dataset.name.localeCompare(b.dataset.name, 'es')
+        : Number(b.dataset.order) - Number(a.dataset.order));
       sorted.forEach(card => grid.appendChild(card));
-    });
+    }
+    order?.addEventListener('change', sortCards);
+    sortCards();
     form.addEventListener('submit', event => {
       event.preventDefault(); apply();
       document.getElementById('recetas').scrollIntoView({behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'});
